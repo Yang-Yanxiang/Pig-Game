@@ -9,7 +9,6 @@ GAME RULES:
 
 */
 var currentPlayer, scores, roundScore, isPlaying;
-
 var score0 = document.querySelector('#score-0');
 var score1 = document.querySelector('#score-1');
 var currentScore0 = document.querySelector('#current-0');
